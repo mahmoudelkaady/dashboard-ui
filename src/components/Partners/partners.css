@@ -1,0 +1,18 @@
+.title {
+  color: #000;
+  font-family: Muli;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px; /* 138.462% */
+  letter-spacing: 0.13px;
+}
+.permision {
+  color: #9897ad;
+  font-family: Muli;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px; /* 163.636% */
+  letter-spacing: 0.11px;
+}

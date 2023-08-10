@@ -1,0 +1,57 @@
+.fisrtBox {
+  background-color: #ffecc8;
+}
+.img {
+  height: 200px;
+}
+.beigText {
+  color: #bd5600;
+}
+.ovel {
+  position: absolute;
+  top: 4px;
+}
+.tempereture {
+  color: #242424;
+  text-align: center;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+}
+.weather {
+  color: #242424;
+  font-family: Mulish;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 18px; /* 128.571% */
+  letter-spacing: 0.598px;
+}
+.titel {
+  color: #242424;
+  font-family: Mulish;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px; /* 125% */
+  letter-spacing: 1.026px;
+}
+.living {
+  background-color: #edeef4;
+}
+.white {
+  background-color: white;
+}
+.quarter {
+  right: -19px;
+  top: -16px;
+  width: 127px;
+  height: 130px;
+}
+.lastLeft {
+  width: 743px;
+  height: 389px;
+  flex-shrink: 0;
+}

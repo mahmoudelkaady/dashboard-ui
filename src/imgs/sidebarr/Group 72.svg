@@ -1,0 +1,22 @@
+<svg width="51" height="51" viewBox="0 0 51 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 72">
+<g id="Group 30">
+<g id="Group 31">
+<g id="Rectangle Copy 5">
+<mask id="path-1-inside-1_0_401" fill="white">
+<rect x="14" y="23.4091" width="10.4545" height="13.5909" rx="1.56818"/>
+</mask>
+<rect x="14" y="23.4091" width="10.4545" height="13.5909" rx="1.56818" stroke="#7A40F2" stroke-width="3.34545" mask="url(#path-1-inside-1_0_401)"/>
+</g>
+<g id="Rectangle Copy 2">
+<mask id="path-2-inside-2_0_401" fill="white">
+<rect x="26.4293" y="14" width="10.4545" height="13.5909" rx="1.56818"/>
+</mask>
+<rect x="26.4293" y="14" width="10.4545" height="13.5909" rx="1.56818" stroke="#7A40F2" stroke-width="3.34545" mask="url(#path-2-inside-2_0_401)"/>
+</g>
+<rect id="Rectangle" x="14" y="14" width="10.4545" height="7.31818" rx="1.56818" fill="#7A40F2"/>
+<rect id="Rectangle Copy 3" x="26.4293" y="29.6818" width="10.4545" height="7.31818" rx="1.56818" fill="#7A40F2"/>
+</g>
+</g>
+</g>
+</svg>
