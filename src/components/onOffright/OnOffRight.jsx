@@ -4,9 +4,9 @@ export default function OnOffRight({ color, img, title }) {
   return (
     <>
       <div className={`text-white p-3  rounded-4 ${color} `}>
-        <div className="d-flex row  mb-2">
-          <div className="col-6">{img}</div>
-          <div className="col-6 d-flex justify-content-end align-items-center">
+        <div className="d-flex row justify-content-between  mb-2">
+          <div className="col-3 col-md-6 ">{img}</div>
+          <div className="col-8 col-md-4 col-lg-6 d-flex justify-content-end align-items-center">
             <span className="me-2">ON</span>
             <div
               className={`state w-50 h-50  p-1 bg-light rounded-pill d-flex justify-content-end `}

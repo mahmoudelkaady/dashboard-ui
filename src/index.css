@@ -40,3 +40,52 @@ body {
 .search {
   background-color: #e6e5f2;
 }
+
+/* small screan  */
+@media (max-width: 767px) {
+  .paintimg {
+    right: -6px;
+  }
+}
+
+/* meium screan  */
+@media (min-width: 768px) {
+  .paint {
+    width: fit-content;
+  }
+  .paintimg {
+    position: relative;
+    top: 42px;
+    right: -57px;
+  }
+}
+
+@media (min-width: 911px) {
+  .paintimg {
+    right: -9px;
+  }
+}
+
+@media (min-width: 931px) {
+  .paintimg {
+    right: 5px;
+  }
+}
+
+/* large screan  */
+@media (max-width: 991px) {
+  .side {
+    display: none;
+  }
+}
+
+@media (min-width: 1023) {
+  .paintimg {
+    right: 7px;
+  }
+}
+@media (max-width: 1026) {
+  .paintimg {
+    right: 7px;
+  }
+}
